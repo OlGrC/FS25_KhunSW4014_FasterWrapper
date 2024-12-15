@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>OlavMods</author>
+    <version>1.0.0.0</version>
+    <iconFilename>icon_sample.dds</iconFilename>
+
+    <title>
+        <en>Khun FastWrapper</en>
+    </title>
+	<description>
+		<en><![CDATA[Sample Ingame Mod
+➣ Price: $
+➣ Power: HP
+➣ Max Speed:KMH
+]]></en>	
+	</description>
+	<multiplayer supported="true"/>
+    <storeItems>
+        <storeItem xmlFilename="xml/sw4014.xml"/>
+    </storeItems>
+
+</modDesc>
