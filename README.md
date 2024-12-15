@@ -7,6 +7,7 @@ Note: When wrapping the largest round bales, there may be minor visual glitches,
 Installation Instructions:
 - Download the .zip file.
 - Place it in your mod folder without unzipping it.
+
 The individual files in the repository are for reference and visualization only and are not needed to install the mod.
 
 Disclaimer:
